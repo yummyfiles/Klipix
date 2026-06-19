@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="220">
+<img src="Klipix txt logo.png" width="300">
 
 # Klipix
 
