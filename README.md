@@ -68,4 +68,5 @@ Klipix is being built around a few simple ideas:
 
 Built by a creator who wanted a better editing experience.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z5Z521S7ER)
 </div>
