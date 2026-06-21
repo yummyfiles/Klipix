@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="Klipix txt logo.png" width="300">
-
 # Klipix
 
 ### Open-source video editing.
@@ -44,13 +42,6 @@ Import your clips, edit your video, export it, and move on.
 
 ---
 
-##  Screenshots
-
-<div align="center">
-<img src="assets/screenshot1.png" width="90%">
-</div>
-
----
 
 ##  Goals
 
